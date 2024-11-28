@@ -1,2 +1,2 @@
 # pinto
-creates many pintos.txt ad aeternum
+pinto executable trolls you by generating nearly a thousand files called some variation of "pinto.txt". The source code provided can easiuly be reacomodated for an endless generation of files, which would most certainly either fry your memory or be a huge pain in the ars to delete all the .txt files. Be careful for I do not know what will actually happen if you overload someon's hard drive memory with .txt files, and do not underestimate the speedness of this assembly language compiled code. Have fun!
